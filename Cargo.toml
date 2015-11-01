@@ -1,0 +1,4 @@
+[package]
+name = "hello-world"
+version = "0.0.1"
+authors = ["B. K. Oxley (binkley) <binkley@alumni.rice.edu"]
